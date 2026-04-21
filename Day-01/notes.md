@@ -20,14 +20,10 @@
 ## 💻 What I Implemented
 - Set up environment using Google Colab
 - Loaded a basic dataset (Iris dataset)
-- Ran a simple classification model using Logistic Regression
-- Split data into training and testing sets
-- Made predictions using the trained model
 
 ## ⚠️ Problems Faced
 - Confusion between supervised and unsupervised learning initially
 - Understanding how model training actually works
-- Difficulty remembering sklearn functions without referring to notes
 
 ## 💡 Key Takeaways
 - ML workflow: Data → Train Model → Predict → Evaluate
