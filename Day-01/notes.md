@@ -19,7 +19,6 @@
 
 ## 💻 What I Implemented
 - Set up environment using Google Colab
-- Loaded a basic dataset (Iris dataset)
 
 ## ⚠️ Problems Faced
 - Confusion between supervised and unsupervised learning initially
