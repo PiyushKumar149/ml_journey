@@ -1,2 +1,2 @@
 # ml_journey
-My Machine Learning learning journey (Day-wise progress + projects)
+My Machine Learning journey (Day-wise progress + projects)
