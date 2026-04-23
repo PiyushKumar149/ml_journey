@@ -1,4 +1,4 @@
-# Day 1 - Introduction to Machine Learning
+# Day 1 - Introduction to Machine Learning 
 
 ## 📚 Topics Covered
 - What is Machine Learning
