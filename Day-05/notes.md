@@ -1,4 +1,5 @@
 # Day 5 - Imbalanced Data & Text Feature Extraction (TF-IDF)
+📅 Date: 27 April 2026
 
 ## 📚 Topics Covered
 - Handling Imbalanced Datasets
